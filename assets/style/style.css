@@ -1,0 +1,82 @@
+  @import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
+
+
+  body {
+      background-color: #dcdcf9;
+      color: #04041a;
+  }
+
+  h2.big-h2 {
+      font-size: 2.8rem;
+  }
+
+  .bg-module {
+      background-color: #b0b0f2;
+  }
+
+  .expense-date {
+      font-size: 0.8rem !important;
+      font-style: italic;
+  }
+
+  .header {
+      padding: 2em 0;
+      font-family: 'Oxygen', sans-serif;
+  }
+
+  .header h1 {
+      font-size: 5em;
+      font-weight: 700;
+      font-style: normal;
+      color: #04041a;
+  }
+
+  .footer {
+      background-color: #4040ff;
+  }
+
+  .footer a {
+      color: #04041a;
+  }
+
+
+
+  .form-error {
+      min-height: 1rem;
+      color: rgb(180, 100, 100);
+      font-size: 0.9rem;
+      font-style: italic;
+  }
+
+  .login-error {
+      min-height: 1.2rem;
+      color: rgb(180, 100, 100);
+      font-size: 0.7rem;
+      font-style: italic;
+  }
+
+  .connection-error {
+      min-height: rem;
+      color: rgb(255, 190, 190);
+      font-size: 0.9rem;
+      font-style: italic;
+  }
+
+  .my-btn-infos {
+      background-color: #69A2B0;
+      color: aliceblue;
+  }
+
+  .my-btn-update {
+      background-color: #69A2B0;
+      color: aliceblue;
+  }
+
+  .my-btn-delete {
+      background-color: #E05263;
+      color: aliceblue;
+  }
+
+  .font-oxygen {
+      font-family: 'Oxygen', sans-serif;
+  }
